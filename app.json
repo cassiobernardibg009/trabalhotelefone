@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "firebaseTADS",
+    "slug": "firebaseTADS",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.biru.firebaseTADS"
+    }
+  }
+}
